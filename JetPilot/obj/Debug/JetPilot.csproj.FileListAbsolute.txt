@@ -1,0 +1,6 @@
+c:\users\utente\documents\visual studio 2012\Projects\JetPilot\JetPilot\obj\Debug\JetPilot.csprojResolveAssemblyReference.cache
+c:\users\utente\documents\visual studio 2012\Projects\JetPilot\JetPilot\bin\Debug\JetPilot.dll
+c:\users\utente\documents\visual studio 2012\Projects\JetPilot\JetPilot\bin\Debug\JetPilot.pdb
+c:\users\utente\documents\visual studio 2012\Projects\JetPilot\JetPilot\bin\Debug\InfinityScript.dll
+c:\users\utente\documents\visual studio 2012\Projects\JetPilot\JetPilot\obj\Debug\JetPilot.dll
+c:\users\utente\documents\visual studio 2012\Projects\JetPilot\JetPilot\obj\Debug\JetPilot.pdb
